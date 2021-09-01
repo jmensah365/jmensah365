@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmensah365
 - 👀 I’m interested in Computer Science/ Game Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, python, and C
 - 💞️ I’m looking to collaborate on any python/java projects
 - 📫 You can reach me through my email: mensahj@carleton.edu
 
