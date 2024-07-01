@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science/ Game Development
 - 🌱 I’m currently learning Java, python, and C
 - 💞️ I’m looking to collaborate on any python/java projects
-- 📫 You can reach me through my email: mensahj@carleton.edu
+- 📫 You can reach me through my email: jmensah365@gmail.com
 
 <!---
 jmensah365/jmensah365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
